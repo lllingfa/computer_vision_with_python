@@ -24,4 +24,4 @@ it includes ten chapters
 
 10.chap10:opencv
 
-you need install some packages before you run the code,when you learn the computer vision by runing the code,it is absulutely helpful to make you have a deep understanding of the algorithm in vision and even though they are some basic methods to solve the problems ,it also do benifit to read the latest paper which describe the state of art methods.
+you need install some packages before you run the code,when you learn the computer vision by runing the code,it is helpful to make you have a  understanding of the algorithm in vision and even though they are some basic methods to solve the problems.
